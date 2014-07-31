@@ -1,0 +1,23 @@
+{
+  "name": "node-example",
+  "version": "0.0.0",
+  "description": "heroku hello world",
+  "main": "web.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:mredwardchen/node-example.git"
+  },
+  "keywords": [
+    "example",
+    "heroku"
+  ],
+  "author": "Ed Chen",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mredwardchen/node-example/issues"
+  },
+  "homepage": "https://github.com/mredwardchen/node-example"
+}
